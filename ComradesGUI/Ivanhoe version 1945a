@@ -1,0 +1,57 @@
+id Ivanhoe version 1945a
+ici
+Path C:\Users\DMITRI\Documents\GameDevelopment\Chess\Engines\IvanHoe\Ivanhoe1945a\Ivanhoe1945a_popcnt_sse4-2_Intel_x64_2013-06-07.exe
+RunTimeOptions NULL
+Hash spin 32
+PawnsHash binary 4
+PawnsHashOneEighth check true
+PVHash binary 2
+EvalHash binary 256
+TitanicMode check true
+TitanicCPUsSizings spin 4
+VerifyNullMove check true
+AlternativeTimeUsage check false
+AllowInstantMoveFromHash check true
+BufferTime spin 0
+OutputDelay spin 0
+MultiPV spin 1
+MultiCentiPawnPV spin 65535
+RandomCount spin 0
+RandomBits spin 1
+WhiteBishopPair spin 45
+WhitePawn spin 100
+WhiteKnight spin 300
+WhiteLightBishop spin 310
+WhiteDarkBishop spin 310
+WhiteRook spin 500
+WhiteQueen spin 950
+BlackBishopPair spin 45
+BlackPawn spin 100
+BlackKnight spin 300
+BlackLightBishop spin 310
+BlackDarkBishop spin 310
+BlackRook spin 500
+BlackQueen spin 950
+MaterialWeighting spin 1024
+KingSafetyWeighting spin 1024
+StaticWeighting spin 1024
+MobilityWeighting spin 1024
+PawnsWeighting spin 1024
+AlwaysAnalyze check false
+TryPVinAnalysis check true
+FixedAgeAnalysis check false
+SendCurrmove check false
+DoHashFull check true
+TimeImitateOpponent check false
+TimeMoreWhenLosing check false
+TimeMoreWhenWinning check false
+TimeEasyFactor spin 15
+TimeEasyFactorPonder spin 33
+TimeBattleFactor spin 100
+TimeOrdinaryFactor spin 75
+TimeAbsolutePercent spin 25
+TimeDesiredMillis spin 40
+TimeBookExitMoves spin 0
+ExtraExtendInCheck check false
+TryLargePages check false
+SendHash check false
